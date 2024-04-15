@@ -15,4 +15,4 @@ cloud hosting services with
 
 languages
 
-- javaScript / Css / Html
+- javaScript / Css / HTML
